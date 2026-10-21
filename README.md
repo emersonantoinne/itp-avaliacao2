@@ -96,10 +96,6 @@ Entradas: estudante com notas `5.9`, `6` e `6.1`.
 
 Resultado esperado: média `6.00` e situação "atingiu a meta". O programa usa uma pequena tolerância na comparação para que erros de arredondamento do `float` não deixem essa média como 5.9999.
 
-## Vídeo
-
-Link da apresentação no YouTube: [COLE AQUI O LINK DO VÍDEO]
-
 ## Referências
 
 - Material das aulas 6 a 11 da disciplina ITP (matrizes, tipos de dados, strings, estrutura de memória, memória estática e heap, ponteiros e alocação dinâmica).
