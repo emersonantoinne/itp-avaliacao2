@@ -98,7 +98,7 @@ Resultado esperado: média `6.00` e situação "atingiu a meta". O programa usa 
 
 ## Vídeo
 
-Link da apresentação no YouTube: https://youtu.be/xBW8fEkG1lE
+Link da apresentação no YouTube: https://youtu.be/51D1KeKKwfw
 
 ## Referências
 
